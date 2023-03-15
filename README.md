@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Zortex1111/Zortex1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eradicate
 
-Here are some ideas to get you started:
+Developer of:
+Daylight (External CS:GO cheat currently friends only)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+# Hobbies
+Reverse engineering
+
+---
+
+### My Stats
+
+
+<div id="badges">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Zortex1111&style=flat-square&color=blue" alt=""/>
+</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zortex1111&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zortex1111&count_private=true&langs_count=7" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zortex1111&count_private=true" />  
