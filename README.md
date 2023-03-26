@@ -2,7 +2,8 @@
 # Eradicate
 
 Developer of:
-Daylight (External CS:GO cheat currently friends only)
+Lixo (External CS:GO cheat currently friends only)
+Daylight (Rust recoil script friends only)
 
 ---
 # Hobbies
