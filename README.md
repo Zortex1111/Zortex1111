@@ -15,7 +15,7 @@ Reverse engineering
   <img src="https://komarev.com/ghpvc/?username=Zortex1111&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zortex1111&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zortex1111)](https://git.io/streak-stats)
 
 
 
